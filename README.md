@@ -40,7 +40,7 @@
 
 ---
 
-### 特别感谢：
+### 特别感谢：感谢
 
   * [@chavyleung](https://github.com/chavyleung)
 
